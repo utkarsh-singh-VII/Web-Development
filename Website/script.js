@@ -1,0 +1,1 @@
+console.log("Congratulations! You have found an easter egg.");
